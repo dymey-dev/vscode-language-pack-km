@@ -1,0 +1,37 @@
+{
+  "name": "vscode-language-pack-km",
+  "displayName": "Khmer Language Pack for Visual Studio Code",
+  "description": "Khmer (ភាសាខ្មែរ) Language Pack for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "dymey-dev",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "icon": "languagepack.png",
+  "categories": [
+    "Language Packs"
+  ],
+  "keywords": [
+    "Khmer",
+    "Language Pack",
+    "loc",
+    "i18n",
+    "ភាសាខ្មែរ"
+  ],
+  "contributes": {
+    "localizations": [
+      {
+        "languageId": "km",
+        "languageName": "Khmer",
+        "localizedLanguageName": "ភាសាខ្មែរ",
+        "translations": [
+          {
+            "id": "vscode",
+            "path": "./translations/main.i18n.json"
+          }
+        ]
+      }
+    ]
+  }
+}

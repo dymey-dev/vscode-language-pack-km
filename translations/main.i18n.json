@@ -12,46 +12,46 @@
       "titleLabel": "{0} ({1})"
     },
     "vs/base/browser/ui/button/button": {
-      "button dropdown more actions": "More Actions..."
+      "button dropdown more actions": "ជម្រើសបន្ថែម..."
     },
     "vs/base/browser/ui/dialog/dialog": {
-      "dialogClose": "Close Dialog",
-      "dialogErrorMessage": "Error",
-      "dialogInfoMessage": "Info",
-      "dialogPendingMessage": "In Progress",
-      "dialogWarningMessage": "Warning",
-      "ok": "OK"
+      "dialogClose": "បិទផ្ទាំងសារ",
+      "dialogErrorMessage": "មានបញ្ហា",
+      "dialogInfoMessage": "ដំណឹង",
+      "dialogPendingMessage": "កំពុងដំណើរការ",
+      "dialogWarningMessage": "គួរប្រយ័ត្ន",
+      "ok": "យល់ព្រម"
     },
     "vs/base/browser/ui/dropdown/dropdownActionViewItem": {
-      "moreActions": "More Actions..."
+      "moreActions": "ជម្រើសបន្ថែម..."
     },
     "vs/base/browser/ui/findinput/findInput": {
-      "defaultLabel": "input"
+      "defaultLabel": "ប្រអប់បញ្ចូលអត្ថបទ"
     },
     "vs/base/browser/ui/findinput/findInputToggles": {
-      "caseDescription": "Match Case",
-      "regexDescription": "Use Regular Expression",
-      "wordsDescription": "Match Whole Word"
+       "caseDescription": "ផ្ទៀងផ្ទាត់អក្សរតូចធំ",
+      "regexDescription": "ប្រើ Regular Expression",
+      "wordsDescription": "រកពាក្យពេញលេញ"
     },
     "vs/base/browser/ui/findinput/replaceInput": {
-      "defaultLabel": "input",
-      "label.preserveCaseToggle": "Preserve Case"
+      "defaultLabel": "ប្រអប់បញ្ចូលអត្ថបទ",
+      "label.preserveCaseToggle": "រក្សាទម្រង់អក្សរតូចធំ"
     },
     "vs/base/browser/ui/hover/hoverWidget": {
-      "acessibleViewHint": "Inspect this in the accessible view with {0}.",
-      "acessibleViewHintNoKbOpen": "Inspect this in the accessible view via the command Open Accessible View which is currently not triggerable via keybinding."
+      "acessibleViewHint": "ពិនិត្យមើលវាក្នុង ផ្ទាំងជំនួយ ដោយចុច {0}។",
+      "acessibleViewHintNoKbOpen": "ពិនិត្យមើលវាក្នុង ផ្ទាំងជំនួយ តាមរយៈពាក្យបញ្ជា បើកផ្ទាំងជំនួយ (Open Accessible View) ដែលបច្ចុប្បន្នមិនទាន់មានគ្រាប់ចុចកាត់នៅឡើយ។"
     },
     "vs/base/browser/ui/icons/iconSelectBox": {
-      "iconSelect.noResults": "No results",
-      "iconSelect.placeholder": "Search icons"
+      "iconSelect.noResults": "រកមិនឃើញឡើយ",
+      "iconSelect.placeholder": "ស្វែងរករូបតំណាង"
     },
     "vs/base/browser/ui/inputbox/inputBox": {
-      "alertErrorMessage": "Error: {0}",
-      "alertInfoMessage": "Info: {0}",
-      "alertWarningMessage": "Warning: {0}",
-      "clearedInput": "Cleared Input",
-      "history.inputbox.hint.suffix.inparens": " ({0} for history)",
-      "history.inputbox.hint.suffix.noparens": " or {0} for history"
+      "alertErrorMessage": "មានបញ្ហា: {0}",
+      "alertInfoMessage": "ដំណឹង: {0}",
+      "alertWarningMessage": "គួរប្រយ័ត្ន: {0}",
+      "clearedInput": "បានសម្អាតប្រអប់បញ្ចូលអត្ថបទ",
+      "history.inputbox.hint.suffix.inparens": " (ចុច {0} ដើម្បីមើលពាក្យដែលធ្លាប់បញ្ចូល)",
+      "history.inputbox.hint.suffix.noparens": " ឬចុច {0} ដើម្បីមើលពាក្យដែលធ្លាប់បញ្ចូល"
     },
     "vs/base/browser/ui/keybindingLabel/keybindingLabel": {
       "unbound": "Unbound"
@@ -7730,33 +7730,33 @@
       "zenModeIcon": "Represents zen mode"
     },
     "vs/workbench/browser/actions/listCommands": {
-      "mitoggleTreeStickyScroll": "&&Toggle Tree Sticky Scroll",
-      "toggleTreeStickyScroll": "Toggle Tree Sticky Scroll",
-      "toggleTreeStickyScrollDescription": "Toggles Sticky Scroll widget at the top of tree structures such as the File Explorer and Debug variables View."
+      "mitoggleTreeStickyScroll": "&&បើក/បិទ Sticky Scroll នៃបញ្ជី",
+      "toggleTreeStickyScroll": "បើក/បិទ Sticky Scroll នៃបញ្ជី",
+      "toggleTreeStickyScrollDescription": "បើក ឬបិទផ្ទាំង Sticky Scroll នៅផ្នែកខាងលើនៃទម្រង់បញ្ជី ដូចជាផ្ទាំងស្វែងរកហ្វាល់ (File Explorer) និងផ្ទាំង Debug variables។"
     },
     "vs/workbench/browser/actions/navigationActions": {
-      "focusNextPart": "Focus Next Part",
-      "focusPreviousPart": "Focus Previous Part",
-      "navigateDown": "Navigate to the View Below",
-      "navigateLeft": "Navigate to the View on the Left",
-      "navigateRight": "Navigate to the View on the Right",
-      "navigateUp": "Navigate to the View Above"
+      "focusNextPart": "ផ្ដោតលើផ្នែកបន្ទាប់",
+      "focusPreviousPart": "ផ្ដោតលើផ្នែកមុន",
+      "navigateDown": "ផ្លាស់ទីទៅផ្ទាំងខាងក្រោម",
+      "navigateLeft": "ផ្លាស់ទីទៅផ្ទាំងខាងឆ្វេង",
+      "navigateRight": "ផ្លាស់ទីទៅផ្ទាំងខាងស្តាំ",
+      "navigateUp": "ផ្លាស់ទីទៅផ្ទាំងខាងលើ"
     },
-    "vs/workbench/browser/actions/quickAccessActions": {
-      "quickNavigateNext": "Navigate Next in Quick Open",
-      "quickNavigatePrevious": "Navigate Previous in Quick Open",
-      "quickOpen": "Go to File...",
-      "quickOpenWithModes": "Quick Open",
-      "quickSelectNext": "Select Next in Quick Open",
-      "quickSelectPrevious": "Select Previous in Quick Open"
+   "vs/workbench/browser/actions/quickAccessActions": {
+      "quickNavigateNext": "ទៅកាន់ធាតុបន្ទាប់",
+      "quickNavigatePrevious": "ទៅកាន់ធាតុមុន",
+      "quickOpen": "ទៅកាន់ហ្វាល់...",
+      "quickOpenWithModes": "ស្វែងរករហ័ស...",
+      "quickSelectNext": "ជ្រើសរើសធាតុបន្ទាប់",
+      "quickSelectPrevious": "ជ្រើសរើសធាតុមុន"
     },
     "vs/workbench/browser/actions/textInputActions": {
-      "copy": "Copy",
-      "cut": "Cut",
-      "paste": "Paste",
-      "redo": "Redo",
-      "selectAll": "Select All",
-      "undo": "Undo"
+      "copy": "ចម្លង",
+      "cut": "កាត់",
+      "paste": "បិទភ្ជាប់",
+      "redo": "ធ្វើវិញ",
+      "selectAll": "ជ្រើសរើសទាំងអស់",
+      "undo": "មិនធ្វើវិញ"
     },
     "vs/workbench/browser/actions/windowActions": {
       "about": "About",
@@ -7794,25 +7794,25 @@
       "workspacesAndFolders": "folders & workspaces"
     },
     "vs/workbench/browser/actions/workspaceActions": {
-      "closeWorkspace": "បិទកន្លែងការងារ",
-      "duplicateWorkspace": "ចម្លងកន្លែងការងារមួយទៀត",
-      "duplicateWorkspaceInNewWindow": "ចម្លងកន្លែងការងារទៅផ្ទាំងថ្មី",
-      "globalRemoveFolderFromWorkspace": "ដកថតចេញពីកន្លែងការងារ...",
-      "miAddFolderToWorkspace": "បន្ថែម&&ថតទៅកន្លែងការងារ...",
-      "miCloseFolder": "បិទ&&ថត",
-      "miCloseWorkspace": "បិទ&&កន្លែងការងារ",
+      "closeWorkspace": "បិទ Workspace",
+      "duplicateWorkspace": "ចម្លង Workspace មួយទៀត",
+      "duplicateWorkspaceInNewWindow": "ចម្លង Workspace ទៅផ្ទាំងថ្មី",
+      "globalRemoveFolderFromWorkspace": "ដកហ្វូឌឺចេញពី Workspace...",
+      "miAddFolderToWorkspace": "បន្ថែម&&ហ្វូឌឺទៅ Workspace...",
+      "miCloseFolder": "បិទ&&ហ្វូឌឺ",
+      "miCloseWorkspace": "បិទ&&Workspace",
       "miOpen": "បើក&&...",
-      "miOpenFile": "បើក&&ឯកសារ...",
-      "miOpenFolder": "បើក&&ថត...",
-      "miOpenWorkspace": "បើក&&កន្លែងការងារពីឯកសារ...",
-      "miSaveWorkspaceAs": "រក្សាទុកកន្លែងការងារជា...",
-      "openFile": "បើកឯកសារ...",
+      "miOpenFile": "បើក&&ហ្វាល់...",
+      "miOpenFolder": "បើក&&ហ្វូឌឺ...",
+      "miOpenWorkspace": "បើក&&Workspace ពីហ្វាល់...",
+      "miSaveWorkspaceAs": "រក្សាទុក Workspace ជា...",
+      "openFile": "បើកហ្វាល់...",
       "openFileFolder": "បើក...",
-      "openFolder": "បើកថត...",
-      "openWorkspaceAction": "បើកកន្លែងការងារពីឯកសារ...",
-      "openWorkspaceConfigFile": "បើកឯកសារកំណត់កន្លែងការងារ",
-      "saveWorkspaceAsAction": "រក្សាទុកកន្លែងការងារជា...",
-      "workspaces": "កន្លែងការងារ"
+      "openFolder": "បើកហ្វូឌឺ...",
+      "openWorkspaceAction": "បើក Workspace ពីហ្វាល់...",
+      "openWorkspaceConfigFile": "បើកហ្វាល់កំណត់ទម្រង់ Workspace",
+      "saveWorkspaceAsAction": "រក្សាទុក Workspace ជា...",
+      "workspaces": "Workspace"
   },
     "vs/workbench/browser/actions/workspaceCommands": {
       "add": "&&Add",
